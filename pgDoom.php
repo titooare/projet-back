@@ -165,7 +165,7 @@ $donnees = $reponse->fetch();
                 <div class="row">
                    <div class="alert alert-success" role="alert">
                      <h4 class="alert-heading">se connecter</h4>
-                        <form method="post" action="connextion2.php">
+                        <form method="post" action="connection2.php">
                         <div class="form-group"
                            <label for="exampleInputEmail1">Pseudo</label>
 													 <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="pseudo" placeholder="Entrer pseudo">

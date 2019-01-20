@@ -26,7 +26,7 @@ body{
 		  <div class="alert mb-5" role="alert">
                      <h4 class="alert-heading">se connecter</h4>
 
-												<form method="post" action="connextion.php">
+												<form method="post" action="connection.php">
                         <div class="form-group">
                            <label for="exampleInputEmail1">Pseudo</label>
                             <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="pseudo" placeholder="Entrer pseudo">
